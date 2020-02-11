@@ -56,6 +56,7 @@ and open the template in the editor.
 #poga{
     display:block;
     border: 1px solid;
+    width:75px;
     border_color:#aaa #000 #000 #aaa;
     background: #fc0;
 }
