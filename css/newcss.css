@@ -48,7 +48,6 @@ and open the template in the editor.
     color: #1abc9c !important;
   }
 .b2{
-    margin-left:auto;
-    margin-right:auto;
+    margin-left:50%;
     display:block;
 }
