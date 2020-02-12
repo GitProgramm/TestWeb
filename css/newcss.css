@@ -53,4 +53,11 @@ and open the template in the editor.
     display:block;
     height:300px;
 }
-
+.sticky{
+    position:fixed;
+    top:0;
+    width:100%;
+}
+.sticky + .content{
+    padding-top:60px;
+}
