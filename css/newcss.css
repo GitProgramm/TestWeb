@@ -47,8 +47,8 @@ and open the template in the editor.
   .navbar-nav  li a:hover {
     color: #1abc9c !important;
   }
-.b2{
-    margin-top=50px;
+#b2{
+    margin-top:50px;
     margin-left:10%;
     display:block;
     height:300px;
