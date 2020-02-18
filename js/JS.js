@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-window.onscroll = function {myFunction()};
+window.onscroll = function() {myFunction()};
   
 var navbar= document.getElementById("myNavbar");
 var sticky = navbar.offsetTop;
