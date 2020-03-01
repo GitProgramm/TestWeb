@@ -1,7 +1,7 @@
 
 window.onscroll = function() {myFunction()};
 var navbar = document.getElementById("myNavbar");
-var nav1 = documnet.getElementById("myNav");
+var nav1 = document.getElementById("myNav");
 var sticky = navbar.offsetTop;
 function myFunction() {
   if (window.pageYOffset >= sticky) {
