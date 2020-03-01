@@ -1,4 +1,4 @@
-
+/*
 window.onscroll = function() {myFunction()};
 var navbar = document.getElementById("myNavbar");
 var nav1 = document.getElementById("myNav");
@@ -12,3 +12,4 @@ function myFunction() {
     nav1.classList.remove("sticky");
   }
 }
+*/
