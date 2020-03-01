@@ -57,7 +57,5 @@ and open the template in the editor.
     position:fixed;
     top:0;
     width:100%;
-}
-.sticky + .content{
-    padding-top:60px;
+    background-color:#a9b33b;
 }
